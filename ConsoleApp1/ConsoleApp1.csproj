@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="C:\Users\User\Downloads\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="System.Management" Version="7.0.2" />
   </ItemGroup>
 
